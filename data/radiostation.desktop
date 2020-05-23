@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=RadioStation
+Terminal=false
+Exec=radiostation
+Icon=radiostation
+Type=Application
+Categories=AudioVideo;Audio;Player;
