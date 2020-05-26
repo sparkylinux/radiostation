@@ -1,5 +1,7 @@
 [Desktop Entry]
 Name=RadioStation
+Comment=Online radio streaming player
+Comment[pl]=Odtwarzacz radia online
 Terminal=false
 Exec=radiostation
 Icon=radiostation

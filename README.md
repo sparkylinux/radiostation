@@ -1,7 +1,7 @@
 ### About
 `radiostation` is a fork off `radiotray-lite`, a lightweight clone of the original [Radio Tray](http://radiotray.sourceforge.net/) online radio streaming player rewritten in C++.
 
-![Screenshot](images/radiotray-lite.png)
+![Screenshot](images/radiostation.png)
 
 ### Key features
 * Runs on a Linux system tray.
@@ -20,7 +20,7 @@ installed `-dev` versions of the following packages:
 * `libmagic`
 
 To compile program run following (with obvious amendments) commands from build directory:
-* `$ cmake /path/to/radiotray-lite/ -DCMAKE_INSTALL_PREFIX=/usr/`
+* `$ cmake /path/to/radiostation/ -DCMAKE_INSTALL_PREFIX=/usr/`
 * `$ make`
 * `$ cpack -G DEB` to create package in `.deb` format or `$ cpack -G RPM` to create package in `.rpm` format.
 

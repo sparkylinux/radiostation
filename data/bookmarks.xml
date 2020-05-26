@@ -1,34 +1,89 @@
 <bookmarks>
   <group name="root">
+     <group name="International">
+        <group name="English">
+          <bookmark name="BBC World Service" url="http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-eieuk"/>
+          <bookmark name="NPR (US)" url="http://www.npr.org/streams/mp3/nprlive24.m3u"/>
+          <bookmark name="RFI" url="http://live02.rfi.fr/rfienanglais-64.mp3"/>
+          <bookmark name="LBC London" url="http://media-the.musicradio.com/LBCLondon"/>
+       </group>
+       <group name="Espanol">
+           <bookmark name="RNE Radio Exterior" url="http://radioexterior.rtveradio.cires21.com/radioexterior.mp3"/>
+           <bookmark name="RNE Radio 5" url="http://radio5.rtveradio.cires21.com/radio5.mp3"/>
+           <bookmark name="Onda Cero" url="http://icecast-streaming.nice264.com/ondacero"/>
+           <bookmark name="RFI" url="http://live02.rfi.fr/rfienespagnol-64.mp3"/>
+       </group>
+       <group name="Polskie">
+    	   <bookmark name="AntyRadio" url="http://ant-waw-01.cdn.eurozet.pl:8602/listen.pls"/>
+    	   <bookmark name="Eska" url="http://waw02-03.ic.smcdn.pl:8000/t042-1.mp3.m3u"/>
+    	   <bookmark name="Eska Rock" url="http://waw02-03.ic.smcdn.pl:8000/t041-1.mp3.m3u"/>
+    	   <bookmark name="Kolor" url="http://stream4.nadaje.com:15358/radiokolor.m3u"/>
+    	   <bookmark name="Maryja" url="http://www.radiostacje.com/shortcuts/radiomaryja.pls"/>
+    	   <bookmark name="MeloRadio" url="http://mel0101.cdn.eurozet.pl:8800/mel-net.mp3.m3u"/>
+    	   <bookmark name="Muzo.fm" url="http://stream4.nadaje.com:8002/muzo.m3u"/>
+    	   <bookmark name="Plus" url="http://plu-waw.cdn.eurozet.pl:8318/listen.pls"/>
+    	   <bookmark name="Polskie Radio 1" url="http://stream3.polskieradio.pl:8900/listen.pls"/>
+           <bookmark name="Polskie Radio 2" url="http://stream3.polskieradio.pl:8902/listen.pls"/>
+           <bookmark name="Polskie Radio 3" url="http://stream3.polskieradio.pl:8904/listen.pls"/>
+           <bookmark name="Polskie Radio 4" url="http://stream3.polskieradio.pl:8906/listen.pls"/>
+           <bookmark name="Polskie Radio 24" url="=http://stream3.polskieradio.pl:8080/listen.pls"/>
+           <bookmark name="Polskie Radio Chopin" url="http://stream3.polskieradio.pl:8910/listen.pls"/>
+   	   <bookmark name="Pogoda" url="http://stream13.radioagora.pl/tuba38-1.mp3.m3u"/>
+   	   <bookmark name="Radio Dla Ciebie" url="http://www.rdc.pl/rdc.m3u"/>
+           <bookmark name="Radio Dzieciom" url="http://stream3.polskieradio.pl:8916/listen.pls"/>
+   	   <bookmark name="Radio Plus" url="http://waw02-03.ic.smcdn.pl:8000/t051-1.mp3.m3u"/>
+           <bookmark name="RMF" url="http://www.rmfon.pl/n/rmffm.pls"/>
+           <bookmark name="RMF Classic" url="http://www.rmfon.pl/n/rmfclassic.pls"/>
+           <bookmark name="RMF Maxxx" url="http://www.rmfon.pl/n/rmfmaxxx.pls"/>
+           <bookmark name="RMF Smooth Jazz" url="http://www.rmfon.pl/n/rmfsmoothjazz.pls"/>
+           <bookmark name="Rock Radio" url="http://stream.radioagora.pl/tuba9006-1.mp3.m3u"/>
+           <bookmark name="Roxy" url="http://poznan6.radio.pionier.net.pl:8000/roxyfm.ogg"/>
+           <bookmark name="Silesia" url="http://silesia.fm/radiosilesia.m3u"/>
+           <bookmark name="Tok FM" url="http://stream.radioagora.pl/tuba10-1.mp3.m3u"/>
+           <bookmark name="VOX FM" url="http://waw02-03.ic.smcdn.pl:8000/t049-1.mp3.m3u"/>
+           <bookmark name="WAWA" url="http://waw02-03.ic.smcdn.pl:8000/t050-1.mp3.m3u"/>
+           <bookmark name="Wnet" url="http://audio.radiownet.pl:8000/stream.m3u"/>
+           <bookmark name="ZET" url="http://zet-net-01.cdn.eurozet.pl:8400/listen.pls"/>
+           <bookmark name="ZET Chilli" url="http://chi-net-01.cdn.eurozet.pl:8900/listen.pls"/>
+           <bookmark name="Złote Przeboje" url="http://stream.radioagora.pl/tuba8936-1.mp3.m3u"/>
+        </group>
+     </group>
      <group name="Blues">
      	<bookmark name="Austin Blues Radio" url="http://ca10.rcast.net:8036/listen.pls"/>
         <bookmark name="Majestic Jukebox Radio" url="http://uk3.internet-radio.com:8405/live.m3u"/>
         <bookmark name="TOPBLUES" url="http://us3.internet-radio.com:8342/listen.pls"/>
      </group>
      <group name="Chillout">
+        <bookmark name="Beat Blender" url="http://somafm.com/beatblender.pls"/>
+        <bookmark name="Groove Salad" url="http://somafm.com/groovesalad.pls"/>
      	<bookmark name="Hirschmilch Chillout" url="http://hirschmilch.de:7000/listen.pls"/>
+     	<bookmark name="Illinois Street Lounge" url="http://somafm.com/illstreet.pls"/>
         <bookmark name="Prana.cr" url="http://144.217.203.184:9221/listen.pls"/>
+        <bookmark name="Secret Agent" url="http://somafm.com/secretagent.pls"/>
         <bookmark name="Spectrum Chillout" url="http://51.255.235.165:5024/listen.pls"/>
      </group>
-    <group name="Classical">
-      <bookmark name="KDFC" url="http://provisioning.streamtheworld.com/pls/KDFCFMAAC.pls"/>
-      <bookmark name="Classic FM" url="http://media-ice.musicradio.com/ClassicFMMP3.m3u"/>
-      <bookmark name="WCPE" url="http://audio-ogg.ibiblio.org:8000/wcpe.ogg.m3u"/>
-      <bookmark name="Radioswissclassic" url="http://www.radioswissclassic.ch/de/live/aacp.m3u"/>
-      <bookmark name="Radio Classique" url="http://players.creacast.com/creacast/classique/playlist.pls"/>
-      <bookmark name="Classical Public Radio (wdav.org)" url="http://audio-mp3.ibiblio.org:8000/wdav-112k"/>
-      <bookmark name="Classical 102" url="http://tuner.classical102.com:80"/>
-      <bookmark name="RNE Radio Clasica" url="http://radioclasica.rtveradio.cires21.com/radioclasica.mp3"/>
-      <bookmark name="Classic FM Nederland" url="http://www.classicfm.nl/player/classicfm.pls"/>
-    </group>
-    <group name="Country">
+     <group name="Classical">
+        <bookmark name="Classical 102" url="http://tuner.classical102.com:80"/>
+        <bookmark name="Classic FM" url="http://media-ice.musicradio.com/ClassicFMMP3.m3u"/>
+        <bookmark name="Classic FM Nederland" url="http://www.classicfm.nl/player/classicfm.pls"/>
+        <bookmark name="Classical Public Radio (wdav.org)" url="http://audio-mp3.ibiblio.org:8000/wdav-112k"/>
+        <bookmark name="KDFC" url="http://provisioning.streamtheworld.com/pls/KDFCFMAAC.pls"/>
+        <bookmark name="Radio Classique" url="http://players.creacast.com/creacast/classique/playlist.pls"/>
+        <bookmark name="Radioswissclassic" url="http://www.radioswissclassic.ch/de/live/aacp.m3u"/>
+        <bookmark name="RNE Radio Clasica" url="http://radioclasica.rtveradio.cires21.com/radioclasica.mp3"/>
+        <bookmark name="WCPE" url="http://audio-ogg.ibiblio.org:8000/wcpe.ogg.m3u"/>
+     </group>
+     <group name="Country">
+        <bookmark name="Boot Liquor" url="http://somafm.com/bootliquor.pls"/>
     	<bookmark name="Cherokee Nation Radio" url="http://us3.internet-radio.com:8226/live.m3u"/>
+    	<bookmark name="Country 108" url="http://www.country108.com/listen.pls"/>
     	<bookmark name="Countrymusic24" url="http://91.250.77.9:9000/listen.pls"/>
     	<bookmark name="The Ranch - Classic Country" url="http://us3.internet-radio.com:8297/listen.pls"/>
-    </group>
-    <group name="Dance">
+     </group>
+     <group name="Dance">
      	<bookmark name="Dance UK Radio" url="http://uk2.internet-radio.com:8024/listen.pls"/>
      	<bookmark name="Ibiza Lockdown Radio" url="http://uk3.internet-radio.com:8218/live.m3u"/>
+     	<bookmark name="New Dance Radio" url="http://jbstream.net/tunein.php/blackoutworm/playlist.asx"/>
      	<bookmark name="Real Dance Radio" url="http://uk6.internet-radio.com:8096/live.m3u"/>
      </group>
      <group name="Instrumental">
@@ -36,76 +91,49 @@
      	<bookmark name="Instrumental Radio" url="http://178.32.62.163:8599/listen.pls"/>
         <bookmark name="LEAL Stream" url="http://163.172.198.16:8366/listen.pls"/>
      </group>
-    <group name="Jazz">
+     <group name="Jazz">
         <bookmark name=".977 Smooth Jazz" url="http://www.977music.com/itunes/jazz.pls"/>
         <bookmark name="Joy radio" url="http://uk5.internet-radio.com:8174/listen.pls"/>
         <bookmark name="Smooth Jazz Florida" url="http://us4.internet-radio.com:8266/listen.pls"/>
-    </group>
-    <group name="Reggae">
+        <bookmark name="Sonic Universe" url="http://somafm.com/sonicuniverse.pls"/>
+     </group>
+     <group name="Latin">
+        <bookmark name="LA SUPER ESTRELLA SONIDERA CUMBIA" url="http://usa5.fastcast4u.com:16380/listen.pls"/>
+        <bookmark name="RADIO 1 MANELE ROMANIA" url="http://radio1manele.no-ip.org:8000/listen.pls"/>
+        <bookmark name="Radio Baladas Viejitas Bonitas" url="http://158.69.4.171:8230/listen.pls"/>
+        <bookmark name="Salsa Warriors" url="http://192.99.17.12:6031/listen.pls"/>
+        <bookmark name="Top Latino Radio" url="http://online.radiodifusion.net:8020/listen.pls"/>
+     </group>
+     <group name="Reggae">
         <bookmark name="FM Jamaica" url="http://us5.internet-radio.com:8487/listen.pls"/>
         <bookmark name="Mighty General (MG)" url="http://us3.internet-radio.com:8120/live.m3u"/>
         <bookmark name="Party Vibe: Reggae" url="http://www.partyviberadio.com:8000/listen.pls"/>
      </group>
-    <group name="Rock">
+     <group name="Rock">
+        <bookmark name=".977 Classic Rock" url="http://www.977music.com/tunein/web/classicrock.asx"/>
     	<bookmark name="Classic Rock Planet" url="http://us5.internet-radio.com:8279/listen.pls"/>
+    	<bookmark name="Covers" url="http://somafm.com/covers.pls"/>
         <bookmark name="Rock 181" url="http://listen.181fm.com/181-rock_64k.aac"/>
         <bookmark name="Rock Antenne" url="http://www.rockantenne.de/webradio/rockantenne.aac.pls"/>
-        <bookmark name=".977 Classic Rock" url="http://www.977music.com/tunein/web/classicrock.asx"/>
      </group>
-    <group name="Soundtracks">
-      <bookmark name="Classic FM soundtracks" url="http://www.classicfm.nl/player/classicfm-soundtracks.pls"/>
-      <bookmark name="Radio Domeldo Movie" url="http://185.105.4.53:3006/listen.pls"/>
-      <bookmark name="Tune Disney Radio" url="http://162.244.80.106:8108/listen.pls"/>
-    </group>
-    <group name="Techno">
+     <group name="Romantic">
+        <bookmark name="Heartbeat FM" url="http://176.9.184.196:8010/listen.pls"/>
+        <bookmark name="Radio Best Romantic" url="http://89.39.189.2:8877/listen.pls"/>
+        <bookmark name="ROMANTIC MUSIC (radio.musicdays.pl)" url="http://145.239.26.146:7286/listen.pls"/>
+     </group>
+     <group name="Soundtracks">
+        <bookmark name="Classic FM soundtracks" url="http://www.classicfm.nl/player/classicfm-soundtracks.pls"/>
+        <bookmark name="Radio Domeldo Movie" url="http://185.105.4.53:3006/listen.pls"/>
+        <bookmark name="Tune Disney Radio" url="http://162.244.80.106:8108/listen.pls"/>
+     </group>
+     <group name="Techno / Electronic">
+        <bookmark name="Black Rock FM" url="http://somafm.com/brfm.pls"/>
+        <bookmark name="cliqhop idm" url="http://somafm.com/cliqhop.pls"/>
+        <bookmark name="DI Radio Digital Impulse - Techno" url="http://5.39.71.159:8938/listen.pls"/>
+        <bookmark name="Drone Zone" url="http://somafm.com/dronezone.pls"/>
      	<bookmark name="ELECTRONIC MUSIC NEVER DIES" url="http://uk1.internet-radio.com:8247/listen.pls"/>
         <bookmark name="Minimal Mix Radio Stream" url="http://5.39.71.159:8750/listen.pls"/>
-        <bookmark name="DI Radio Digital Impulse - Techno" url="http://5.39.71.159:8938/listen.pls"/>
+        <bookmark name="Space Station Soma" url="http://somafm.com/spacestation.pls"/>
      </group>
-    <group name="Espanol">
-      <bookmark name="RNE Radio Exterior" url="http://radioexterior.rtveradio.cires21.com/radioexterior.mp3"/>
-      <bookmark name="RNE Radio 5" url="http://radio5.rtveradio.cires21.com/radio5.mp3"/>
-      <bookmark name="Onda Cero" url="http://icecast-streaming.nice264.com/ondacero"/>
-      <bookmark name="RFI" url="http://live02.rfi.fr/rfienespagnol-64.mp3"/>
-    </group>
-    <group name="English">
-      <bookmark name="BBC World Service" url="http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-eieuk"/>
-      <bookmark name="NPR (US)" url="http://www.npr.org/streams/mp3/nprlive24.m3u"/>
-      <bookmark name="RFI" url="http://live02.rfi.fr/rfienanglais-64.mp3"/>
-      <bookmark name="LBC London" url="http://media-the.musicradio.com/LBCLondon"/>
-    </group>
-    <group name="Polskie">
-    	<bookmark name="AntyRadio" url="http://ant-waw-01.cdn.eurozet.pl:8602/listen.pls"/>
-    	<bookmark name="Eska" url="http://waw02-03.ic.smcdn.pl:8000/t042-1.mp3.m3u"/>
-    	<bookmark name="Eska Rock" url="http://waw02-03.ic.smcdn.pl:8000/t041-1.mp3.m3u"/>
-    	<bookmark name="Kolor" url="http://stream4.nadaje.com:15358/radiokolor.m3u"/>
-    	<bookmark name="Maryja" url="http://www.radiostacje.com/shortcuts/radiomaryja.pls"/>
-    	<bookmark name="MeloRadio" url="http://mel0101.cdn.eurozet.pl:8800/mel-net.mp3.m3u"/>
-    	<bookmark name="Muzo.fm" url="http://stream4.nadaje.com:8002/muzo.m3u"/>
-    	<bookmark name="Plus" url="http://plu-waw.cdn.eurozet.pl:8318/listen.pls"/>
-    	<bookmark name="Polskie Radio 1" url="http://stream3.polskieradio.pl:8900/listen.pls"/>
-        <bookmark name="Polskie Radio 2" url="http://stream3.polskieradio.pl:8902/listen.pls"/>
-        <bookmark name="Polskie Radio 3" url="http://stream3.polskieradio.pl:8904/listen.pls"/>
-        <bookmark name="Polskie Radio 4" url="http://stream3.polskieradio.pl:8906/listen.pls"/>
-        <bookmark name="Polskie Radio 24" url="=http://stream3.polskieradio.pl:8080/listen.pls"/>
-        <bookmark name="Polskie Radio Chopin" url="http://stream3.polskieradio.pl:8910/listen.pls"/>
-   	<bookmark name="Pogoda" url="http://stream13.radioagora.pl/tuba38-1.mp3.m3u"/>
-   	<bookmark name="Radio Dla Ciebie" url="http://www.rdc.pl/rdc.m3u"/>
-   	<bookmark name="Radio Dzieciom" url="http://stream3.polskieradio.pl:8916/listen.pls"/>
-   	<bookmark name="Radio Plus" url="http://waw02-03.ic.smcdn.pl:8000/t051-1.mp3.m3u"/>
-        <bookmark name="RMF" url="http://www.rmfon.pl/n/rmffm.pls"/>
-        <bookmark name="RMF Classic" url="http://www.rmfon.pl/n/rmfclassic.pls"/>
-        <bookmark name="RMF Maxxx" url="http://www.rmfon.pl/n/rmfmaxxx.pls"/>
-        <bookmark name="Rock Radio" url="http://stream.radioagora.pl/tuba9006-1.mp3.m3u"/>
-        <bookmark name="Roxy" url="http://poznan6.radio.pionier.net.pl:8000/roxyfm.ogg"/>
-        <bookmark name="Silesia" url="http://silesia.fm/radiosilesia.m3u"/>
-        <bookmark name="Tok FM" url="http://stream.radioagora.pl/tuba10-1.mp3.m3u"/>
-        <bookmark name="VOX FM" url="http://waw02-03.ic.smcdn.pl:8000/t049-1.mp3.m3u"/>
-        <bookmark name="WAWA" url="http://waw02-03.ic.smcdn.pl:8000/t050-1.mp3.m3u"/>
-        <bookmark name="Wnet" url="http://audio.radiownet.pl:8000/stream.m3u"/>
-        <bookmark name="ZET" url="http://zet-net-01.cdn.eurozet.pl:8400/listen.pls"/>
-        <bookmark name="ZET Chilli" url="http://chi-net-01.cdn.eurozet.pl:8900/listen.pls"/>
-        <bookmark name="Złote Przeboje" url="http://stream.radioagora.pl/tuba8936-1.mp3.m3u"/>
-      </group>
   </group>
 </bookmarks>
