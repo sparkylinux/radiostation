@@ -1,6 +1,22 @@
 <bookmarks>
   <group name="root">
      <group name="International">
+        <group name="Austria">
+          <bookmark name="98.3 Superfly" url="http://stream01.superfly.fm:8080/live128"/>
+          <bookmark name="Antenne Steiermark" url="http://live.antenne.at/as"/>
+          <bookmark name="Austrian Rock Radio" url="http://live.antenne.at/arr"/>
+          <bookmark name="Kronehit Black" url="http://onair-ha1.krone.at/kronehit-black.mp3"/>
+          <bookmark name="Kronehit Charts" url="http://onair.krone.at/kronehit-charts.mp3"/>
+          <bookmark name="KroneHit" url="http://onair-ha1.krone.at/kronehit-hp.mp3"/>
+          <bookmark name="KroneHit UK Charts" url="http://onair-ha1.krone.at/kronehit-ukcharts.mp3"/>
+          <bookmark name="KroneHit US Charts" url="http://onair-ha1.krone.at/kronehit-uscharts.mp3"/>
+          <bookmark name="Life Radio" url="http://94.136.28.10:8000/liferadio"/>
+          <bookmark name="Radio Arabella Austropop" url="http://arabella.stream.kapper.net:8005/arabellaaustropop"/>
+          <bookmark name="Radio Arabella Wien Live" url="http://arabella.stream.kapper.net:8000/arabellavie"/>
+          <bookmark name="Radio Austria" url="http://streamplus14.leonex.de:24954/;stream.nsv"/>
+          <bookmark name="Radio FRO Stream - 105.0 MHz" url="http://www.fro.at:8008/fro64.mp3"/>
+          <bookmark name="VIENNA.AT Top 40" url="http://webradio.vienna.at:80/vie-top40"/>
+        </group>
         <group name="English">
           <bookmark name="BBC World Service" url="http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-eieuk"/>
           <bookmark name="NPR (US)" url="http://www.npr.org/streams/mp3/nprlive24.m3u"/>
