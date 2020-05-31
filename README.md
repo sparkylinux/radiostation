@@ -14,7 +14,7 @@ For a while this project is only tested on Debian Buster (stable) and Bullseye (
 installed `-dev` versions of the following packages:
 * `libgtkmm-3.0`
 * `libgstreamermm-0.10-2` or `libgstreamermm-1.0-1`
-* `libcurl3` or `libcurl4`
+* `libcurl4`
 * `libnotify4`
 * `libappindicator3`
 * `libmagic`
