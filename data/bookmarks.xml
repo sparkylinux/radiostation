@@ -30,27 +30,24 @@
            <bookmark name="RFI" url="http://live02.rfi.fr/rfienespagnol-64.mp3"/>
        </group>
        <group name="Polskie">
-           <bookmark name="Akademickie Radio Kampus" url="http://193.0.98.66:8002/listen.pls"/>
-    	   <bookmark name="AntyRadio" url="http://www.emsoft.ct8.pl/inne/anty.m3u"/>
+    	   <bookmark name="AntyRadio" url="http://ant-waw-01.cdn.eurozet.pl:8602/listen.pls"/>
     	   <bookmark name="Eska" url="http://waw02-03.ic.smcdn.pl:8000/t042-1.mp3.m3u"/>
     	   <bookmark name="Eska Rock" url="http://waw02-03.ic.smcdn.pl:8000/t041-1.mp3.m3u"/>
-    	   <bookmark name="Kolor" url="http://radiokolor.pl/sluchaj.m3u"/>
-    	   <bookmark name="Maryja" url="http://www.radiostacje.com/shortcuts/radiomaryja.m3u"/>
-    	   <bookmark name="MeloRadio" url="http://www.emsoft.ct8.pl/inne/melo.m3u"/>
-    	   <bookmark name="Muzo.fm" url="http://stream.rcs.revma.com/1nnezw8qz7zuv.m3u"/>
+    	   <bookmark name="Kolor" url="http://stream4.nadaje.com:15358/radiokolor.m3u"/>
+    	   <bookmark name="Maryja" url="http://www.radiostacje.com/shortcuts/radiomaryja.pls"/>
+    	   <bookmark name="MeloRadio" url="http://mel0101.cdn.eurozet.pl:8800/mel-net.mp3.m3u"/>
+    	   <bookmark name="Muzo.fm" url="http://stream4.nadaje.com:8002/muzo.m3u"/>
     	   <bookmark name="Plus" url="http://plu-waw.cdn.eurozet.pl:8318/listen.pls"/>
     	   <bookmark name="Polskie Radio 1" url="http://stream3.polskieradio.pl:8900/listen.pls"/>
            <bookmark name="Polskie Radio 2" url="http://stream3.polskieradio.pl:8902/listen.pls"/>
            <bookmark name="Polskie Radio 3" url="http://stream3.polskieradio.pl:8904/listen.pls"/>
            <bookmark name="Polskie Radio 4" url="http://stream3.polskieradio.pl:8906/listen.pls"/>
-           <bookmark name="Polskie Radio 24" url="http://stream3.polskieradio.pl:8080/listen.pls"/>
+           <bookmark name="Polskie Radio 24" url="=http://stream3.polskieradio.pl:8080/listen.pls"/>
            <bookmark name="Polskie Radio Chopin" url="http://stream3.polskieradio.pl:8910/listen.pls"/>
    	   <bookmark name="Pogoda" url="http://stream13.radioagora.pl/tuba38-1.mp3.m3u"/>
-   	   <bookmark name="Radio 357" url="https://stream.rcs.revma.com/ye5kghkgcm0uv"/>
    	   <bookmark name="Radio Dla Ciebie" url="http://www.rdc.pl/rdc.m3u"/>
            <bookmark name="Radio Dzieciom" url="http://stream3.polskieradio.pl:8916/listen.pls"/>
-           <bookmark name="Radio Nowy Świat" url="https://stream.nowyswiat.online/mp3"/>
-   	   <bookmark name="Radio Plus" url="http://plu-waw-01.cdn.eurozet.pl:8318/listen.pls"/>
+   	   <bookmark name="Radio Plus" url="http://waw02-03.ic.smcdn.pl:8000/t051-1.mp3.m3u"/>
            <bookmark name="RMF" url="http://www.rmfon.pl/n/rmffm.pls"/>
            <bookmark name="RMF Classic" url="http://www.rmfon.pl/n/rmfclassic.pls"/>
            <bookmark name="RMF Maxxx" url="http://www.rmfon.pl/n/rmfmaxxx.pls"/>
@@ -58,13 +55,13 @@
            <bookmark name="Rock Radio" url="http://stream.radioagora.pl/tuba9006-1.mp3.m3u"/>
            <bookmark name="Roxy" url="http://poznan6.radio.pionier.net.pl:8000/roxyfm.ogg"/>
            <bookmark name="Silesia" url="http://silesia.fm/radiosilesia.m3u"/>
-           <bookmark name="Tok FM" url="http://radiostream.pl/tuba10-1.mp3.m3u"/>
-           <bookmark name="VOX FM" url="http://waw01-01.ic.smcdn.pl:8000/3990-1.mp3.m3u"/>
-           <bookmark name="WAWA" url="http://waw01-01.ic.smcdn.pl:8000/1100-1.mp3.m3u"/>
+           <bookmark name="Tok FM" url="http://stream.radioagora.pl/tuba10-1.mp3.m3u"/>
+           <bookmark name="VOX FM" url="http://waw02-03.ic.smcdn.pl:8000/t049-1.mp3.m3u"/>
+           <bookmark name="WAWA" url="http://waw02-03.ic.smcdn.pl:8000/t050-1.mp3.m3u"/>
            <bookmark name="Wnet" url="http://audio.radiownet.pl:8000/stream.m3u"/>
-           <bookmark name="ZET" url="http://www.radiostacje.com/shortcuts/zet.m3u"/>
-           <bookmark name="ZET Chilli" url="http://www.radiostacje.com/shortcuts/chillizet.m3u"/>
-           <bookmark name="Złote Przeboje" url="http://stream10.radioagora.pl/zp_waw_128.mp3"/>
+           <bookmark name="ZET" url="http://zet-net-01.cdn.eurozet.pl:8400/listen.pls"/>
+           <bookmark name="ZET Chilli" url="http://chi-net-01.cdn.eurozet.pl:8900/listen.pls"/>
+           <bookmark name="Złote Przeboje" url="http://stream.radioagora.pl/tuba8936-1.mp3.m3u"/>
         </group>
      </group>
      <group name="Blues">
